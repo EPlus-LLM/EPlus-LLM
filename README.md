@@ -16,6 +16,7 @@ Paper [HERE](https://doi.org/10.1016/j.apenergy.2024.123431).
 ![examplex](/figs/v2_example.png)
 - Interaction & Automation: A user-friendly human-AI interface for seamless model creation and customization.
 ![EPlus-LLMv2 platform](/figs/v2_paltform.png)
+<img src="/figs/v2_paltform.png" alt="Description" width="300"/>
 - Flexible Design Scenarios:
 ✅ Geometry: square, L-, T-, U-, and hollow-square-shaped buildings
 ✅ Roof types: flat, gable, hip – customizable attic/ridge height
@@ -24,7 +25,6 @@ Paper [HERE](https://doi.org/10.1016/j.apenergy.2024.123431).
 ✅ Internal loads: lighting, equipment, occupancy, infiltration/ventilation, schedules, heating/cooling setpoints
 ✅ Thermal zoning: configurable multi-zone layouts with core & perimeter zones
 ![EPlus-LLMv2 platform](/figs/v2_U-shaped.png)
-![EPlus-LLMv2 platform](/figs/v2_example2.png)
 ## 🏗️ Target Users
 This current platform is designed for engineers, architects, and researchers working in building performance, sustainability, and resilience. It is especially useful during early-stage conceptual design when modeling decisions have the greatest impact.
 
