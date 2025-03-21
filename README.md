@@ -16,10 +16,12 @@
 - Scalability: Auto-generates complex EnergyPlus models, including varying geometries, materials, thermal zones, hourly schedules, and more.
 - Accuracy & Efficiency: Achieves 100% modeling accuracy while reducing manual modeling time by over 98%.
 - Interaction & Automation: A user-friendly human-AI interface for seamless model creation and customization.
+
 <div align="center">
   <img src="/figs/v2_paltform.png" alt="Description" width="600"/>
   <p><em>A user-friendly human-AI interface for EPlus-LLMv2.</em></p>
 </div>
+
 - Flexible Design Scenarios:
 ✅ Geometry: square, L-, T-, U-, and hollow-square-shaped buildings
 ✅ Roof types: flat, gable, hip – customizable attic/ridge height
@@ -27,6 +29,7 @@
 ✅ Walls & materials: thermal properties, insulation types
 ✅ Internal loads: lighting, equipment, occupancy, infiltration/ventilation, schedules, heating/cooling setpoints
 ✅ Thermal zoning: configurable multi-zone layouts with core & perimeter zones
+
 <div align="center">
   <img src="/figs/v2_prompt-model.png" alt="Prompt-Model Description" width="600"/>
   <p><em>The relationship between the prompt and the model.</em></p>
