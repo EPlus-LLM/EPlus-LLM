@@ -23,6 +23,7 @@
 </div>
 
 - Flexible Design Scenarios:
+
 ✅ Geometry: square, L-, T-, U-, and hollow-square-shaped buildings
 ✅ Roof types: flat, gable, hip – customizable attic/ridge height
 ✅ Orientation & windows: custom WWR, window placement, facade-specific controls
