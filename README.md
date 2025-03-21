@@ -16,9 +16,7 @@ Paper [HERE](https://doi.org/10.1016/j.apenergy.2024.123431).
 - Scalability: Auto-generates complex EnergyPlus models, including varying geometries, materials, thermal zones, hourly schedules, and more.
 ![EPlus-LLMv2 platform](/figs/v2_prompt-model.png)
 - Accuracy & Efficiency: Achieves 100% modeling accuracy while reducing manual modeling time by over 98%.
-![examplex](/figs/v2_example.png)
 - Interaction & Automation: A user-friendly human-AI interface for seamless model creation and customization.
-![EPlus-LLMv2 platform](/figs/v2_paltform.png)
 <div align="center">
   <img src="/figs/v2_paltform.png" alt="Description" width="600"/>
   <p><em>A user-friendly human-AI interface for EPlus-LLMv2.</em></p>
@@ -30,7 +28,11 @@ Paper [HERE](https://doi.org/10.1016/j.apenergy.2024.123431).
 ✅ Walls & materials: thermal properties, insulation types
 ✅ Internal loads: lighting, equipment, occupancy, infiltration/ventilation, schedules, heating/cooling setpoints
 ✅ Thermal zoning: configurable multi-zone layouts with core & perimeter zones
-![EPlus-LLMv2 platform](/figs/v2_U-shaped.png)
+<div align="center">
+  <img src="/figs/v2_prompt-model.png" alt="Prompt-Model Description" width="600"/>
+  <p><em>ABEM Scenarios of EPlus-LLMv2.</em></p>
+</div>
+
 ## 🏗️ Target Users
 This current platform is designed for engineers, architects, and researchers working in building performance, sustainability, and resilience. It is especially useful during early-stage conceptual design when modeling decisions have the greatest impact.
 
