@@ -16,7 +16,10 @@ Paper [HERE](https://doi.org/10.1016/j.apenergy.2024.123431).
 ![examplex](/figs/v2_example.png)
 - Interaction & Automation: A user-friendly human-AI interface for seamless model creation and customization.
 ![EPlus-LLMv2 platform](/figs/v2_paltform.png)
-<img src="/figs/v2_paltform.png" alt="Description" width="300"/>
+<div align="center">
+  <img src="/figs/v2_paltform.png" alt="Description" width="500"/>
+  <p><em>Figure 1: This is a caption for the image.</em></p>
+</div>
 - Flexible Design Scenarios:
 ✅ Geometry: square, L-, T-, U-, and hollow-square-shaped buildings
 ✅ Roof types: flat, gable, hip – customizable attic/ridge height
