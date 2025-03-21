@@ -24,12 +24,12 @@
 
 - Flexible Design Scenarios:
 
-✅ Geometry: square, L-, T-, U-, and hollow-square-shaped buildings  
-✅ Roof types: flat, gable, hip – customizable attic/ridge height  
-✅ Orientation & windows: custom WWR, window placement, facade-specific controls  
-✅ Walls & materials: thermal properties, insulation types  
-✅ Internal loads: lighting, equipment, occupancy, infiltration/ventilation, schedules, heating/cooling setpoints  
-✅ Thermal zoning: configurable multi-zone layouts with core & perimeter zones  
+  ✅ Geometry: square, L-, T-, U-, and hollow-square-shaped buildings  
+  ✅ Roof types: flat, gable, hip – customizable attic/ridge height  
+  ✅ Orientation & windows: custom WWR, window placement, facade-specific controls  
+  ✅ Walls & materials: thermal properties, insulation types  
+  ✅ Internal loads: lighting, equipment, occupancy, infiltration/ventilation, schedules, heating/cooling setpoints  
+  ✅ Thermal zoning: configurable multi-zone layouts with core & perimeter zones  
 
 <div align="center">
   <img src="/figs/v2_prompt-model.png" alt="Prompt-Model Description" width="600"/>
