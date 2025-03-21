@@ -8,3 +8,51 @@
 [Paper coming soon](https://doi.org/10.1016/j.apenergy.2024.123431).
 - 🔥 [2024/05/016] (update #1): We first successfully implement natural language-based auto-building modeling by fine-tuning a large language model (LLM). 
 Paper [HERE](https://doi.org/10.1016/j.apenergy.2024.123431).
+
+## 🚀 Key Features
+- Full Automation: Auto-generates complex EnergyPlus models, including geometry, materials, thermal zones, schedules, and more.
+- High Accuracy: Achieves 100% modeling accuracy on 390 validation cases while reducing manual modeling time by over 98%.
+- Interactive Interface: A user-friendly human-AI interface for seamless model creation and customization.
+- Flexible Design Scenarios:
+✅ Geometry: square, L-, T-, U-, and hollow-square-shaped buildings
+✅ Roof types: flat, gable, hip – customizable attic/ridge height
+✅ Orientation & windows: custom WWR, window placement, facade-specific controls
+✅ Walls & materials: thermal properties, insulation types
+✅ Internal loads: lighting, equipment, occupancy, infiltration/ventilation, schedules, heating/cooling setpoints
+✅ Thermal zoning: configurable multi-zone layouts with core & perimeter zones
+
+## 🏗️ Target Users
+This current platform is designed for engineers, architects, and researchers working in building performance, sustainability, and resilience. It is especially useful during early-stage conceptual design when modeling decisions have the greatest impact.
+
+
+## 🚀 Quick Start
+
+This repository contains v2 and v1 of EPlus-LLM, along with implementation details for the ABEM reference.
+
+
+📂 Repository Structure
+
+```
+    ── README.md                           # Project documentation
+    ── v2                                  # V2 model for complex ABEM scenarios in real-world
+    ── v1                                  # V1 model for simple ABEM scenarios
+    ── requirements.txt                    # Dependencies for this project
+```
+
+🔧 Installation
+
+- Clone the repository:
+```
+    git clone https://github.com/Gangjiang1/EPlus-LLM.git
+    cd EPlus-LLM
+```
+- Install required dependencies:
+```
+    pip install -r requirements.txt
+```
+
+▶️ Running Auto-Building Energy Modeling via EPlus-LLM
+```
+    cd v2
+    python EPlus-LLM/v2/Inference.py
+```
