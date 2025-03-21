@@ -29,14 +29,14 @@
 ✅ Thermal zoning: configurable multi-zone layouts with core & perimeter zones
 <div align="center">
   <img src="/figs/v2_prompt-model.png" alt="Prompt-Model Description" width="600"/>
-  <p><em>Relationships between Prompt and Model.</em></p>
+  <p><em>The relationship between the prompt and the model.</em></p>
 </div>
 
 ## 🏗️ Target Users
 This current platform is designed for engineers, architects, and researchers working in building performance, sustainability, and resilience. It is especially useful during early-stage conceptual design when modeling decisions have the greatest impact.
 <div align="center">
   <img src="/figs/v2_example1.png" alt="Examples of EPlus-LLMv2" width="600"/>
-  <p><em>EXample Scenarios of EPlus-LLMv2.</em></p>
+  <p><em>EXample scenarios of EPlus-LLMv2.</em></p>
 </div>
 
 ## 🚀 Quick Start
