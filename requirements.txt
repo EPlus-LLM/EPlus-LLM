@@ -1,0 +1,13 @@
+datasets
+evaluate
+transformers
+bitsandbytes
+accelerate
+deepspeed
+torch
+protobuf
+argparse
+huggingface_hub
+peft
+jsonlines
+scikit-learn
