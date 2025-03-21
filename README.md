@@ -2,7 +2,7 @@
 **EPlus-LLM series, natural language for auto-building energy modeling via LLM**
 
 <div align="center">
-  <img src="/figs/graphic.png" alt="Illustration of EPlus-LLMv2 for Auto-building energy modeling" width="600"/>
+  <img src="/figs/graphic.png" alt="Illustration of EPlus-LLMv2 for Auto-building energy modeling" width="700"/>
 </div>
 
 
