@@ -14,7 +14,6 @@
 
 ## 🚀 Key Features
 - Scalability: Auto-generates complex EnergyPlus models, including varying geometries, materials, thermal zones, hourly schedules, and more.
-![EPlus-LLMv2 platform](/figs/v2_prompt-model.png)
 - Accuracy & Efficiency: Achieves 100% modeling accuracy while reducing manual modeling time by over 98%.
 - Interaction & Automation: A user-friendly human-AI interface for seamless model creation and customization.
 <div align="center">
@@ -30,12 +29,15 @@
 ✅ Thermal zoning: configurable multi-zone layouts with core & perimeter zones
 <div align="center">
   <img src="/figs/v2_prompt-model.png" alt="Prompt-Model Description" width="600"/>
-  <p><em>ABEM Scenarios of EPlus-LLMv2.</em></p>
+  <p><em>Relationships between Prompt and Model.</em></p>
 </div>
 
 ## 🏗️ Target Users
 This current platform is designed for engineers, architects, and researchers working in building performance, sustainability, and resilience. It is especially useful during early-stage conceptual design when modeling decisions have the greatest impact.
-
+<div align="center">
+  <img src="/figs/v2_example2.png" alt="Examples of EPlus-LLMv2" width="600"/>
+  <p><em>EXample Scenarios of EPlus-LLMv2.</em></p>
+</div>
 
 ## 🚀 Quick Start
 
