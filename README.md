@@ -1,5 +1,5 @@
 # EPlus-LLM
-**EPlus-LLM series, natural language for auto-building energy modeling via LLMs**
+**EPlus-LLM series, natural language for auto-building energy modeling via LLM**
 
 ![Illustration of EPlus-LLMv2 for Auto-building energy modeling](/figs/graphic.png)
 
