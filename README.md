@@ -2,8 +2,8 @@
   <img src="/figs/logo.png" width="150">
   <br />
   <br />
-  <a href="https://github.com/pytorch/fairseq/blob/main/LICENSE"><img alt="License cc-by-nc-4.0" /></a>
-  <a href="https://github.com/pytorch/fairseq/releases"><img alt="Latest Release" /></a>
+  <a href="https://github.com/pytorch/fairseq/blob/main/LICENSE"><img alt="License cc-by-nc-4.0" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
+  <a href="https://github.com/pytorch/fairseq/releases"><img alt="Latest Release" src="https://img.shields.io/github/release/pytorch/fairseq.svg" /></a>
 </p>
 
 
