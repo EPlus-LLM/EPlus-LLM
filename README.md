@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="/figs/logo.png" width="150">
+  <br />
+  <br />
+  <a href="https://github.com/pytorch/fairseq/blob/main/LICENSE"><img alt="License cc-by-nc-4.0" /></a>
+  <a href="https://github.com/pytorch/fairseq/releases"><img alt="Latest Release" /></a>
+</p>
+
+
 # EPlus-LLM
 **EPlus-LLM series, natural language for auto-building energy modeling via LLM**
 
