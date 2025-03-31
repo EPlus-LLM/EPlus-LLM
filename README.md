@@ -4,6 +4,8 @@
   <br />
   <a href="https://github.com/pytorch/fairseq/blob/main/LICENSE"><img alt="License cc-by-nc-4.0" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
   <a href="https://github.com/pytorch/fairseq/releases"><img alt="Latest Release" src="https://img.shields.io/github/release/pytorch/fairseq.svg" /></a>
+  <a [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EPlus-LLM/EPlus-LLMv1/blob/main/Run_EPlus-LLM.ipynb) /></a>
+
 </p>
 
 
