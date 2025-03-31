@@ -1,5 +1,14 @@
 # EPlus-LLM
 
+<div align="center" style="line-height: 1;">
+
+[![GitHub Stars](https://img.shields.io/github/stars/ScienceOne-AI/DeepSeek-671B-SFT-Guide?style=social)](https://github.com/Gangjiang1/EPlus-LLM)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+[English](./README.md) | [中文版](./README_zh.md)
+
+</div>
+
 **EPlus-LLM series, natural language for auto-building energy modeling via LLM**
 
 <div align="center">
