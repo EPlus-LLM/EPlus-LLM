@@ -9,6 +9,26 @@
 
 </div>
 
+
+<!-- Star 数 -->
+[![GitHub Stars](https://img.shields.io/github/stars/Gangjiang1/EPlus-LLM?style=social)](https://github.com/Gangjiang1/EPlus-LLM/stargazers)
+
+<!-- Fork 数 -->
+[![GitHub Forks](https://img.shields.io/github/forks/Gangjiang1/EPlus-LLM?style=social)](https://github.com/Gangjiang1/EPlus-LLM/network/members)
+
+<!-- Issues -->
+[![GitHub Issues](https://img.shields.io/github/issues/Gangjiang1/EPlus-LLM)](https://github.com/Gangjiang1/EPlus-LLM/issues)
+
+<!-- Pull Requests -->
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Gangjiang1/EPlus-LLM)](https://github.com/Gangjiang1/EPlus-LLM/pulls)
+
+<!-- 最后提交时间 -->
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Gangjiang1/EPlus-LLM)](https://github.com/Gangjiang1/EPlus-LLM/commits/main)
+
+<!-- License - 自定义非商业用途 -->
+[![License: NonCommercial](https://img.shields.io/badge/license-NonCommercial-red)](LICENSE)
+
+
 **EPlus-LLM series, natural language for auto-building energy modeling via LLM**
 
 <div align="center">
