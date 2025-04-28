@@ -21,7 +21,7 @@
 
 
 ## 🎉 最新动态
-- 📄 [2025/04/18] (update #4): 基于 EPlus-LLMv2 平台的论文已被 _Automation in Construction_ 接收发表
+- 📄 [2025/04/18] (update #4): 基于 EPlus-LLMv2 平台的论文已被 _Automation in Construction_ 接收发表。
 [论文链接](https://doi.org/10.1016/j.autcon.2025.106223)。
 - ⚡️ [2025/01/15] (update #3): EPlus-LLMv2 发布，成功扩展到复杂场景下的自动建筑能耗建模（ABEM）。新版本支持真实建筑应用中多种建模需求，显著增强了适应性和灵活性。通过大规模数据集和大语言模型，结合 LoRA、混合精度训练与模型量化技术，大幅降低计算开销，实现高效微调（性能无损）。
 [论文即将发布](https://doi.org/10.1016/j.apenergy.2024.123431)。
