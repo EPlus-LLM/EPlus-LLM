@@ -12,6 +12,7 @@
 
 
 **EPlus-LLM series, natural language for auto-building energy modeling via LLM**
+**_EPlus-LLM v1/v2 models along with quick-start example code are open-sourced on [Huggingface](https://huggingface.co/EPlus-LLM)_**
 
 <div align="center">
   <img src="/figs/graphic.png" alt="Illustration of EPlus-LLMv2 for Auto-building energy modeling" width="700"/>
